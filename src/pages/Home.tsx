@@ -4,7 +4,7 @@ import { projects } from '../data/projects';
 const Home = () => {
   return (
     <div className="min-h-screen">
-      {/* Hero Section */}
+      {/* Hero Section - Auto deploy test */}
       <section className="pt-40 pb-20 px-6 animated-gradient">
         <div className="max-w-5xl mx-auto text-center">
           <h1 className="text-6xl md:text-7xl font-bold text-gray-900 mb-6 leading-tight">
